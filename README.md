@@ -1,0 +1,4 @@
+- Get the binary from https://github.com/aras-p/ClangBuildAnalyzer
+- Get capture_file from releases
+- Modify ClangBuildAnalyzer.ini to your liking or see the attached txt file itself.
+- run analyze.
